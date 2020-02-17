@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{a2f6fd67-5a88-4d1a-b397-f1825d3bc755}">
+		<property name="assetPath">
+			<value>274679__badkitty67044__default-grass-footstep-3.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.76108843537414961</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{900f4510-80fa-4199-a962-e5016e60215d}</destination>
+		</relationship>
+	</object>
+</objects>
